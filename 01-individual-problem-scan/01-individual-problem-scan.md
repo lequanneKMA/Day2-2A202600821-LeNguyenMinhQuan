@@ -4,7 +4,7 @@
 
 Quân scan 10 problems, vượt mức tối thiểu 5.
 
-| # | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
+| STT | Lăng kính | Problem quan sát được | Ai đang đau? | Dấu hiệu thật |
 | :--- | :--- | :--- | :--- | :--- |
 | **1** | Tốn thời gian | Thuê đồ đạc ngắn hạn (lều trại, máy ảnh) gặp khó vì Việt Nam chưa có app thuê đồ tập trung, phải tìm thủ công. | Người cần thuê đồ | Mất 1-2 ngày đăng bài lên Facebook, inbox hỏi giá từng người, rủi ro lừa đảo mất tiền cọc cao. |
 | **2** | AI có thể tốt hơn | Đọc hợp đồng thuê nhà hoặc điều khoản dịch vụ (ToS) dài 5-7 trang toàn chữ. | Người thuê nhà / Người dùng | Mất 30 phút đọc nhưng không hiểu các từ ngữ pháp lý, đành ký bừa rồi mang cục tức nếu có tranh chấp. |
